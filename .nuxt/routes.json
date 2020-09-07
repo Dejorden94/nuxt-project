@@ -1,0 +1,23 @@
+[
+  {
+    "name": "event-create",
+    "path": "/event/create",
+    "component": "D:\\\\CMD\\\\JAAR4\\\\Stage\\\\ActicveCollective\\\\Nuxt_tutorial\\\\nuxt_les_9\\\\real-world-nuxt-lesson-9-vuex\\\\pages\\\\event\\\\create.vue",
+    "chunkName": "pages/event/create",
+    "_name": "_37ebcb08"
+  },
+  {
+    "name": "event-id",
+    "path": "/event/:id?",
+    "component": "D:\\\\CMD\\\\JAAR4\\\\Stage\\\\ActicveCollective\\\\Nuxt_tutorial\\\\nuxt_les_9\\\\real-world-nuxt-lesson-9-vuex\\\\pages\\\\event\\\\_id.vue",
+    "chunkName": "pages/event/_id",
+    "_name": "_16ba7b6a"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\CMD\\\\JAAR4\\\\Stage\\\\ActicveCollective\\\\Nuxt_tutorial\\\\nuxt_les_9\\\\real-world-nuxt-lesson-9-vuex\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_73306e38"
+  }
+]

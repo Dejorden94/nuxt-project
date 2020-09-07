@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../../:\CMD\JAAR4\Stage\ActicveCollective\Nuxt_tutorial\nuxt_les_9\real-world-nuxt-lesson-9-vuex\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
